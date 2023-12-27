@@ -36,7 +36,7 @@ Kullanıcı arayüzü yoktur yüzsüzdür.
 Program, kullanıcıya işlem seçimi yapması için bir menü sunar. Kullanıcı, istediği işlemi seçtikten sonra gerekli sayıları girmesi istenir, ve sonuç ekrana yazdırılır.
 
 ## Çıkış
-Programdan çıkmak için kullanıcı '15' seçeneğini seçebilir.
+Programdan çıkmak için kullanıcı 'q' seçeneğini seçebilir.
 
 ---
 
