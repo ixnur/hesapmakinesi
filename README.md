@@ -1,3 +1,9 @@
+
+![Ekran Görüntüsü - 2023-12-28 00-11-10](https://github.com/ixnur/hesapmakinesi/assets/131625021/727a1bc7-8a00-49ee-ad60-bd09c1b9819d)
+
+[Ekran Kaydı - 28-12-2023 00:11:23.webm](https://github.com/ixnur/hesapmakinesi/assets/131625021/c0754c7b-ea89-4118-8f2c-2286f6e9d081)
+
+
 # Yüzsüz Hesap Makinesi
 
 Çeşitli matematiksel işlemleri gerçekleştirmek için kullanılan bir hesap makinesidir. 
