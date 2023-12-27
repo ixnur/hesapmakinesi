@@ -1,3 +1,16 @@
+print("""
+                                                                ###
+                                                                 ##
+ ##  ##   ##  ##   ######    #####   ##  ##   ######             ##       ####     #####    ####    ######
+ ##  ##   ##  ##   #  ##    ##       ##  ##   #  ##              #####   ##  ##   ##           ##    ##  ##
+ ##  ##   ##  ##     ##      #####   ##  ##     ##               ##  ##  ######    #####    #####    ##  ##
+  #####   ##  ##    ##  #        ##  ##  ##    ##  #             ##  ##  ##            ##  ##  ##    #####
+     ##    ######  ######   ######    ######  ######            ###  ##   #####   ######    #####    ##
+ #####                                                                                              ####
+""")
+print(f"@ixnur - Yuzsuz Hesap Makinesi")
+print(f"Yazılım: Python")
+print(f"--------------------------------")
 import math
 
 def toplama(x, y):
@@ -44,8 +57,7 @@ def mutlak_deger(x):
 
 def kupkok(x):
     return math.pow(x, 1/3)
-
-# Kullanıcıdan işlem seçimi
+    
 print("1. Toplama")
 print("2. Çıkarma")
 print("3. Çarpma")
@@ -60,12 +72,12 @@ print("11. Tanjant")
 print("12. Logaritma")
 print("13. Mutlak Değer")
 print("14. Küpkök")
-print("15. Çıkış")
+print("Q. Çıkış")
 
 while True:
-    secim = input("Yapmak istediğiniz işlemi seçin (1-15): ")
+    secim = input("Yapmak istediğiniz işlemi seçin (1-14): ")
 
-    if secim == '15':
+    if secim.lower() == 'q':
         print("Programdan çıkılıyor...")
         break
 
